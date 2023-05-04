@@ -1,4 +1,2 @@
 # ActivityProject
-
-
-I enjoy JavaScript because it makesme think and is awesome !!!.
+the thing i enjoy about java is that i can use it to make the pages interactive 
