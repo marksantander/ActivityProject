@@ -1,0 +1,20 @@
+html {
+  font-family: var 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: rgb(45, 45, 128);
+  
+}
+
+.searchBox {
+  background-color: rgb(196, 221, 221);
+  color: rgb(45, 45, 128);
+  font-weight: bold;
+}
+
+.clickMeButton {
+  background-color: rgb(63, 202, 156);
+  color: white
+}
+
