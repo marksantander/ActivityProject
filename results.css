@@ -1,0 +1,22 @@
+html {
+  font-family: var 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: rgb(45, 45, 128);
+}
+
+.searchButton {
+  background-color: rgb(63, 202, 156);
+  color: white
+}
+
+.goBackButton {
+  background-color: rgb(202, 63, 63);
+  color: white
+}
+
+#readmoreButton {
+  background-color: black);
+  color: white
+}
